@@ -1,0 +1,23 @@
+[
+    {
+        "identificacion": "1293435665",
+        "nombre": "alonso",
+        "telefono": "8894653",
+        "empresa": "arauca"
+        
+    },
+    {
+        "identificacion": "1733035065",
+        "nombre": "martin",
+        "telefono": "8892345",
+        "empresa": "socobuses"
+        
+    },
+    {
+        "identificacion": "1293435000",
+        "nombre": "mateo",
+        "telefono": "8894652",
+        "empresa": "transportes.sa"
+    
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "fecha": "29/03/2021-16:42" ,
+        "vehiculo": "Toyota-bus" ,
+        "empresa" : "Arauqita" ,
+        "valor" : "20000" ,
+        "servicio" : "ejecutivo" ,
+        "sillas" : "2/12"
+    } ,
+
+    {
+        "fecha": "25/02/2021-11:42" ,
+        "vehiculo": "Renault-bus" ,
+        "empresa" : "Cafeteruto-bus" ,
+        "valor" : "17000" ,
+        "servicio" : "especial" ,
+        "sillas" : "5/12"
+    } ,
+
+    {
+        "fecha": "25/06/2021-19:30" ,
+        "vehiculo": "chevrolet-bus" ,
+        "empresa" : "manto-bus" ,
+        "valor" : "22000" ,
+        "servicio" : "basico" ,
+        "sillas" : "7/12"
+    }
+]

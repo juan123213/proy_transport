@@ -1,0 +1,17 @@
+[
+    {
+        "destino": "PAMPLONA N. DE SANTANDER",
+        "nombre": "arauca",
+        "hora":"08/04/2021 04:30 p. m.",
+        "servicio":"basico",
+        "directo":"si"
+    },
+
+    {
+        "destino": "ABEJORRAL ANTIOQUIA",
+        "nombre": "socobuses",
+        "hora":"02/04/2021 04:30 p. m.",
+        "servicio":"especial",
+        "directo":"no"
+    }
+]

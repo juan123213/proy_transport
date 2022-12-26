@@ -1,0 +1,21 @@
+[
+    {
+      "placa":"NAH 231" ,
+      "id":"17312",
+      "empresa":"Arauca" ,
+      "modelo":"buseta tipo1" ,
+      "distribucion":""
+
+
+    } ,
+
+    {
+        "placa":"NWH 661" ,
+        "id":"12367",
+        "empresa":"Caldas" ,
+        "modelo":"buseta tipo3" ,
+        "distribucion":""
+  
+  
+    } 
+]

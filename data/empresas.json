@@ -1,0 +1,23 @@
+[
+    {
+        "nit": "empr1223",
+        "nombre": "arauca",
+        "telefono": "3214007893",
+        "correo": "araucalts@gmail.com"
+        
+    },
+    {
+        "nit": "empr1224",
+        "nombre": "socobuses",
+        "telefono": "3214567893",
+        "correo": "soc22o@gmail.com"
+        
+    },
+    {
+        "nit": "empr1225",
+        "nombre": "transportes.sa",
+        "telefono": "3214562343",
+        "correo": "soc22o@hotmail.com"
+        
+    }
+]
